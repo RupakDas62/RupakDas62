@@ -7,7 +7,7 @@
 
 <!-- Replace later -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Your+Banner+Image+Here" />
+  <img src="/Banner.png" />
 </p>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVmc2pjdHZqM2w0NzM1MTNpMms4NmlybmF6eW1wY3M2eTNpOGh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
