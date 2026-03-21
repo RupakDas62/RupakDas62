@@ -1,81 +1,126 @@
 <h2 align="left">Hi 👋! My name is Rupak Das and I'm a Full Stack Developer, from Kolkata, India</h2>
-
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RupakDas62&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupakDas62&layout=compact&theme=dracula" height="150" />
 </div>
-
 ###
-
-<!-- Banner Image Placeholder -->
-
+<!-- Replace later -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x300?text=Your+Banner+Image+Here" />
 </p>
 
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
 
 ## 🚀 About Me
 
-* 💻 MERN Stack Developer
-* 🎓 B.Tech CSE (AI & ML), UEM Kolkata
-* ⚡ Building real-world scalable apps
-* 🧠 Learning DevOps (Docker, Kubernetes, AWS, Jenkins)
+- 💻 Full Stack Developer with strong focus on MERN stack architecture and scalable web applications  
+- ⚙️ Experience building end-to-end systems with authentication (JWT), REST APIs, and real-time features  
+- 🗄️ Skilled in MongoDB schema design, API optimization, and efficient data handling  
+- 🎯 Hands-on experience integrating third-party services (Razorpay, Nodemailer, external APIs)  
+- ⚡ Focused on performance optimization (lazy loading, API efficiency, reduced computation pipelines)  
+- 🧠 Exploring DevOps practices: containerization (Docker), CI/CD, and cloud deployment (AWS basics)  
+- 🔍 Comfortable with debugging, system design fundamentals, and writing clean, maintainable code
 
-###
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-</div>
+---
 
-###
+### 🎨 Frontend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</p>
+
+- JWT Authentication  
+- Nodemailer  
+- Razorpay Integration  
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+</p>
+
+---
+
+### 🧰 Dev Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+</p>
 
 ## 🔥 Projects
 
-### 🍕 Pizza Delivery Web App
+### 🍕 Pizza Delivery Web App (MERN Stack)
+- Complete full-stack food ordering platform with authentication (JWT-based)
+- Advanced custom pizza builder with multiple combinations (bases, sauces, toppings)
+- Integrated Razorpay for secure online payments
+- Admin dashboard for managing inventory, orders, and stock alerts (<20 units)
+- Tech: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Razorpay, Nodemailer
 
-* Full-stack pizza ordering system with admin panel
-* Razorpay integration for payments
-* Inventory + order tracking
+---
 
 ### 🤖 AI Interviewer Chrome Extension
+- Extracts LeetCode problems using DOM parsing in real-time
+- Provides AI-generated hints using Google Gemini API
+- Voice interaction using ElevenLabs + Web Speech API (~1.2s latency)
+- Lightweight (<1MB) and works in incognito mode
+- Tech: Vite, JavaScript, CSS, Chrome APIs
 
-* Extracts LeetCode problems using DOM
-* AI hints + speech integration
-* Lightweight (<1MB)
+---
 
 ### 🔥 Fire & Smoke Detection System
+- Real-time object detection using YOLOv8s + ONNX optimized for CPU
+- Achieves 25–30 FPS at 384×384 resolution
+- Sends automated email alerts within 5 seconds using GPS-based proximity
+- Reduced computation by 98.3% using frame skipping & optimization
+- Tech: YOLOv8, ONNX, OpenCV, Node.js, Express.js, MongoDB
 
-* YOLOv8 + ONNX real-time detection
-* Email alerts within 5 seconds
-* 98% compute optimization
+---
 
 ### 🏆 Sports Club Management System
+- Web platform to manage Cricket, Chess, and Archery events
+- Cricket module supports 22 players per match (2 teams)
+- Chess module generates N-1 rounds with no duplicate matchups
+- Handles odd players with automated "Bye" assignment
+- Tech: EJS, Bootstrap, Node.js, Express.js, MongoDB
 
-* Multi-sport event system
-* Smart scheduling (no duplicate matches)
-
-###
-
-## 🌐 Connect With Me
+- ## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://rupak-das-portfolio.vercel.app/">
@@ -89,18 +134,12 @@
   </a>
 </div>
 
-###
-
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupakDas62&theme=react-dark" />
 </p>
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
