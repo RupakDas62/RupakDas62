@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Rupak Das and I'm a Full Stack Developer, from Kolkata, India</h2>
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RupakDas62&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupakDas62&layout=compact&theme=dracula" height="150" />
 </div>
-###
+
 <!-- Replace later -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x300?text=Your+Banner+Image+Here" />
