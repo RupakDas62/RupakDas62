@@ -142,4 +142,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/RupakDas62/RupakDas62/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/RupakDas62/RupakDas62/gh-pages/github-contribution-grid-snake.svg)
